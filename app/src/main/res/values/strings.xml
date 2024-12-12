@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Submission-vinsen</string>
+    <string name="title_activity_mainprofile">Mainprofile</string>
+    <string name="title_activity_maindetail">Maindetail</string>
+</resources>
